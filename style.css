@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.test {
+    border: 1px solid;
+    width: 300px;
+    height: 300px;
+    padding: 150px;
+}
+
+.google:hover {
+    margin-right: 30px;
+}
+
+.instagram:hover {
+    text-decoration: none;
+    color: red;
+}
